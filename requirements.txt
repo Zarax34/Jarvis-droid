@@ -1,4 +1,4 @@
-pyaudio
+sounddevice
 google-genai
 google-generativeai
 pillow
